@@ -20,8 +20,9 @@
 
 ### 🏫 Education
 - 🎓 **B.Tech (Computer Engineering)** – Darshan University *(3rd Semester)*
-- 📘 **12th (PCM): 87%** – BM Patel School, Dhrol
-- 📗 **10th: 85%** – Government School Shree Pasaya Taluka Shala
+- 📘 **8th to 12th** – BM Patel School, Dhrol
+- 📘 **12th (PCM): 92.66%** , **10th: 88.33%**
+- 📗 **1st to 7th** – Government School Shree Pasaya Taluka Shala,Village-Pasaya, Dis-Jamnagar, Ta-jamnagar,Pin-361110
 
 ---
 
