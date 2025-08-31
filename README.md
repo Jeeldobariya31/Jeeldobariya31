@@ -66,9 +66,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="tel:+919510975047">
-    <img src="https://img.shields.io/badge/Phone-%2300C853.svg?&style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
+📞 **Contact Number:** +91 95109 75047
+
 </p>
 
 ---
