@@ -1,6 +1,6 @@
 <!-- 🌟 Neon Animated Banner -->
 <p align="center">
-  📢 <img src="https://github.com/Jeeldobariya31/Jeeldobariya31/blob/main/assets/neon-banner.gif" alt="Jeel Dobariya Animated Banner" />
+   <img src="https://github.com/Jeeldobariya31/Jeeldobariya31/blob/main/assets/neon-banner.gif" alt="Jeel Dobariya Animated Banner" />
 </p>
 
 
