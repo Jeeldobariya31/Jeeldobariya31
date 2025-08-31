@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Jeel Dobariya Banner" />
+  <img src="https://github.com/Jeeldobariya31/Jeeldobariya31/blob/main/banner.png" alt="Jeel Dobariya Banner" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Jeel Dobariya</h1>
@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeldobariya31&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeldobariya31&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
