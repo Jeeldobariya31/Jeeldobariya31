@@ -1,10 +1,14 @@
-<!-- 🌟 Neon Animated Banner -->
-<p align="center" style="background-color:#000000; padding:20px; border: 4px solid; border-image: linear-gradient(45deg, #00F7FF, #FF00F7, #00FF7F) 1; border-radius: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hey+there!+I'm+Jeel+Dobariya;3rd+Semester+CE+Student+at+Darshan+University;C,+Java,+Python,+React+Learner;Passionate+About+AI,+Data+Analysis,+and+Development" alt="Dynamic Banner" />
+<!-- 🌟 Advanced Neon Animated Banner with Particles -->
+<p align="center" style="background: linear-gradient(135deg, #0F2027, #203A43, #2C5364); padding:30px; border: 4px solid; border-image: linear-gradient(45deg, #00F7FF, #FF00F7, #00FF7F) 1; border-radius: 20px; position: relative; overflow: hidden;">
+  <!-- Particles Animation -->
+  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/assets/particles.gif" width="100%" style="position:absolute;top:0;left:0;opacity:0.2;z-index:0;" />
+  
+  <!-- Typing Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hey+there!+I'm+Jeel+Dobariya;3rd+Semester+CE+Student+at+Darshan+University;C,+Java,+Python,+React+Learner;Passionate+About+AI,+Data+Analysis,+and+Development" alt="Dynamic Banner" style="position:relative;z-index:1;" />
 </p>
 
-<h1 align="center" style="color:#00F7FF;">Hey there 👋, I'm Jeel Dobariya</h1>
-<h3 align="center" style="color:#FF00F7;">3rd Semester CE Student @ Darshan University | Full-Stack & AI/ML Enthusiast</h3>
+<h1 align="center" style="color:#00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF;">Hey there 👋, I'm Jeel Dobariya</h1>
+<h3 align="center" style="color:#FF00F7; text-shadow: 0 0 10px #FF00F7, 0 0 20px #FF00F7;">3rd Semester CE Student @ Darshan University | Full-Stack & AI/ML Enthusiast</h3>
 
 ---
 
@@ -34,33 +38,33 @@
 
 ### 📌 Projects Showcase
 
-#### 🚗 **Carpooling Website**
+#### <span style="color:#00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF; animation: pulse 2s infinite;">🚗 Carpooling Website</span>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/carpooling.gif" width="400" alt="Carpooling Preview" />
+  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/carpooling.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #00F7FF;" alt="Carpooling Preview" />
 </p>
 A web app for ride-sharing.
 
-#### 📊 **Data Analysis Dashboard**
+#### <span style="color:#FF00F7; text-shadow: 0 0 10px #FF00F7, 0 0 20px #FF00F7; animation: pulse 2s infinite;">📊 Data Analysis Dashboard</span>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/data_dashboard.gif" width="400" alt="Data Analysis Preview" />
+  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/data_dashboard.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #FF00F7;" alt="Data Analysis Preview" />
 </p>
 Interactive dashboard for data visualization.
 
-#### 📝 **Attendance App**
+#### <span style="color:#00FF7F; text-shadow: 0 0 10px #00FF7F, 0 0 20px #00FF7F; animation: pulse 2s infinite;">📝 Attendance App</span>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/attendance.gif" width="400" alt="Attendance App Preview" />
+  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/attendance.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #00FF7F;" alt="Attendance App Preview" />
 </p>
 Smart attendance tracking system.
 
-#### 🍴 **Food Recipe Website**
+#### <span style="color:#00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF; animation: pulse 2s infinite;">🍴 Food Recipe Website</span>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/food_recipe.gif" width="400" alt="Food Recipe Preview" />
+  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/food_recipe.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #00F7FF;" alt="Food Recipe Preview" />
 </p>
 Recipe sharing platform.
 
-#### 🇮🇳 **Indian Culture Site**
+#### <span style="color:#FF00F7; text-shadow: 0 0 10px #FF00F7, 0 0 20px #FF00F7; animation: pulse 2s infinite;">🇮🇳 Indian Culture Site</span>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/indian_culture.gif" width="400" alt="Indian Culture Preview" />
+  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/indian_culture.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #FF00F7;" alt="Indian Culture Preview" />
 </p>
 Cultural heritage & information hub.
 
@@ -94,7 +98,7 @@ Cultural heritage & information hub.
 
 ### 👁️ Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeeldobariya31&label=Profile%20Views&color=FF00F7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Jeeldobariya31&label=Profile%20Views&color=FF00F7&style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
