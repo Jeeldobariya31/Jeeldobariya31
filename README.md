@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Jeeldobariya31/Jeeldobariya31/blob/main/banner.png" alt="Jeel Dobariya Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Jeel+Dobariya;3rd+Semester+CE+Student+at+Darshan+University;C,+Java,+Python,+React+Learner;Passionate+About+AI,+Data+Analysis,+and+Development" alt="Dynamic Banner" />
 </p>
+
 
 <h1 align="center">Hey there 👋, I'm Jeel Dobariya</h1>
 <h3 align="center">3rd Semester CE Student @ Darshan University | Full-Stack & AI/ML Enthusiast</h3>
