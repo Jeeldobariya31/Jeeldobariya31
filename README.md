@@ -1,14 +1,9 @@
-<!-- 🌟 Advanced Neon Animated Banner with Particles -->
-<p align="center" style="background: linear-gradient(135deg, #0F2027, #203A43, #2C5364); padding:30px; border: 4px solid; border-image: linear-gradient(45deg, #00F7FF, #FF00F7, #00FF7F) 1; border-radius: 20px; position: relative; overflow: hidden;">
-  <!-- Particles Animation -->
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/assets/particles.gif" width="100%" style="position:absolute;top:0;left:0;opacity:0.2;z-index:0;" />
-  
-  <!-- Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hey+there!+I'm+Jeel+Dobariya;3rd+Semester+CE+Student+at+Darshan+University;C,+Java,+Python,+React+Learner;Passionate+About+AI,+Data+Analysis,+and+Development" alt="Dynamic Banner" style="position:relative;z-index:1;" />
+<!-- 🌟 Neon Animated Banner -->
+<p align="center">
+  📢 <img src="https://github.com/Jeeldobariya31/Jeeldobariya31/blob/main/assets/neon-banner.gif" alt="Jeel Dobariya Animated Banner" />
 </p>
 
-<h1 align="center" style="color:#00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF;">Hey there 👋, I'm Jeel Dobariya</h1>
-<h3 align="center" style="color:#FF00F7; text-shadow: 0 0 10px #FF00F7, 0 0 20px #FF00F7;">3rd Semester CE Student @ Darshan University | Full-Stack & AI/ML Enthusiast</h3>
+
 
 ---
 
@@ -16,16 +11,16 @@
 - 🎓 Pursuing **B.Tech in Computer Engineering – Darshan University (3rd Semester)**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 🌐 Skilled in **Full-Stack Development (HTML, CSS, JavaScript, React, Bootstrap)**
-- 📊 Interested in **Data Analysis & Visualization (NumPy, Pandas, Matplotlib)**
-- 🏸 Passionate about **technology & innovation**
-- 🎯 Goal: To become a **top-tier AI Engineer**
+- 📊 Passionate about **Data Analysis & Visualization (NumPy, Pandas, Matplotlib)**
+- 🏸 Tech & Innovation Enthusiast
+- 🎯 Goal: Become a **top-tier AI Engineer**
 
 ---
 
 ### 🏫 Education
 - **B.Tech (Computer Engineering)** – *Darshan University (3rd Semester)*
-- **8th to 12th** – BM Patel School, Dhrol *(12th PCM: 92.66%, 10th: 88.33%)*
-- **1st to 7th** – Government School, Pasaya, Jamnagar
+- **12th (PCM): 92.66%**, **10th: 88.33%** – BM Patel School, Dhrol
+- **1st–7th** – Government School, Pasaya, Jamnagar
 
 ---
 
@@ -37,36 +32,22 @@
 ---
 
 ### 📌 Projects Showcase
+Here are some of my highlighted projects:
 
-#### <span style="color:#00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF; animation: pulse 2s infinite;">🚗 Carpooling Website</span>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/carpooling.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #00F7FF;" alt="Carpooling Preview" />
-</p>
-A web app for ride-sharing.
+#### 🚗 **Carpooling Website**
+> A platform for seamless ride-sharing and carpool management.
 
-#### <span style="color:#FF00F7; text-shadow: 0 0 10px #FF00F7, 0 0 20px #FF00F7; animation: pulse 2s infinite;">📊 Data Analysis Dashboard</span>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/data_dashboard.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #FF00F7;" alt="Data Analysis Preview" />
-</p>
-Interactive dashboard for data visualization.
+#### 📊 **Data Analysis Dashboard**
+> Interactive dashboard with live charts and advanced analytics.
 
-#### <span style="color:#00FF7F; text-shadow: 0 0 10px #00FF7F, 0 0 20px #00FF7F; animation: pulse 2s infinite;">📝 Attendance App</span>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/attendance.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #00FF7F;" alt="Attendance App Preview" />
-</p>
-Smart attendance tracking system.
+#### 📝 **Attendance App**
+> Smart attendance tracking system for educational institutes.
 
-#### <span style="color:#00F7FF; text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF; animation: pulse 2s infinite;">🍴 Food Recipe Website</span>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/food_recipe.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #00F7FF;" alt="Food Recipe Preview" />
-</p>
-Recipe sharing platform.
+#### 🍴 **Food Recipe Website**
+> Recipe sharing platform with user-contributed dishes.
 
-#### <span style="color:#FF00F7; text-shadow: 0 0 10px #FF00F7, 0 0 20px #FF00F7; animation: pulse 2s infinite;">🇮🇳 Indian Culture Site</span>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeldobariya31/Jeeldobariya31/main/projects/indian_culture.gif" width="400" style="border-radius:12px; box-shadow: 0 0 20px #FF00F7;" alt="Indian Culture Preview" />
-</p>
-Cultural heritage & information hub.
+#### 🇮🇳 **Indian Culture Site**
+> Web portal showcasing Indian heritage and cultural treasures.
 
 ---
 
