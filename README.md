@@ -58,11 +58,16 @@
   <a href="https://www.instagram.com/jeel_dobariya__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="jeeldobariya33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeel-dobariya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="mailto:jeeldobariya33@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+ <a href="https://www.linkedin.com/in/jeel-dobariya">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="tel:+919510975047">
+    <img src="https://img.shields.io/badge/Phone-%2300C853.svg?&style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 </p>
 
