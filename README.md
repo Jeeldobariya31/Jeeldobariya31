@@ -1,9 +1,14 @@
 <!-- 🌟 Neon Animated Banner -->
+<!-- 🌟 Animated Header with Icons -->
 <p align="center">
-   <img src="https://github.com/Jeeldobariya31/Jeeldobariya31/blob/main/assets/neon-banner.gif" alt="Jeel Dobariya Animated Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Jeel+Dobariya;🚀+3rd+Semester+CE+Student;💻+Full-Stack+%26+AI%2FML+Enthusiast;⚡+Passionate+about+Innovation" alt="Typing SVG Header" />
 </p>
 
-
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/student-center.png" height="30" />
+  Computer Engineering @ Darshan University
+  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" height="30" />
+</h3>
 
 ---
 
