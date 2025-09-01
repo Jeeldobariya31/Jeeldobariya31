@@ -22,16 +22,12 @@
 
 ---
 
-### 🏫 Education
-- **B.Tech (Computer Engineering)** – *Darshan University (3rd Semester)*
-- **12th (PCM): 92.66%**, **10th: 88.33%** – BM Patel School, Dhrol
-- **1st–7th** – Government School, Pasaya, Jamnagar
-
----
-
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,bootstrap,js,react,numpy,pandas,git" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,bootstrap,js,react,git" /><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" height="50"/>
 </p>
 
 ---
@@ -58,18 +54,15 @@ Here are some of my highlighted projects:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeldobariya31&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeldobariya31&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeldobariya31&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeldobariya31&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/jeel_dobariya__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:jeeldobariya33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -78,13 +71,11 @@ Here are some of my highlighted projects:
   </a>
 </p>
 
-📞 **Contact Number:** +91 95109 75047
-
 ---
 
 ### 👁️ Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeeldobariya31&label=Profile%20Views&color=FF00F7&style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=Jeeldobariya31&label=Profile%20Views&color=00F7FF&style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
