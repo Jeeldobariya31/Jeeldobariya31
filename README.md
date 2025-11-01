@@ -1,7 +1,7 @@
 <!-- 🌟 Neon Animated Banner -->
 <!-- 🌟 Animated Header with Icons -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Jeel+Dobariya;🚀+3rd+Semester+CE+Student;💻+Full-Stack+%26+AI%2FML+Enthusiast;⚡+Passionate+about+Innovation" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Jeel+Dobariya;🚀+4th+Semester+CE+Student;💻+Full-Stack+%26+AI%2FML+Enthusiast;⚡+Passionate+about+Innovation" alt="Typing SVG Header" />
 </p>
 
 <h3 align="center">
