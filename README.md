@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing **B.Tech in Computer Engineering – Darshan University (3rd Semester)**
+- 🎓 Pursuing **B.Tech in Computer Engineering – Darshan University (4th Semester)**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 🌐 Skilled in **Full-Stack Development (HTML, CSS, JavaScript, React, Bootstrap)**
 - 📊 Passionate about **Data Analysis & Visualization (NumPy, Pandas, Matplotlib)**
