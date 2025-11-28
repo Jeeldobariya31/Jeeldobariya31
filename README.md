@@ -1,10 +1,3 @@
-<!-- 🌟 Neon Animated Header -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=1100&height=90&lines=👋+Hey!+I'm+Jeel+Dobariya;🚀+Full+Stack+%2B+AI%2FML+Enthusiast;💻+4th+Semester+Computer+Engineering+Student" 
-    alt="Typing Header" 
-  />
-</p>
 
 
 <!-- 💻 Laptop / Coding GIF -->
@@ -12,13 +5,31 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Laptop" />
 </p>
 
+<!-- ✨ Animated Intro -->
 <p align="center">
-  <b>Computer Engineering @ Darshan University</b> 🎓
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=Hi!+I'm+Jeel+Dobariya+👋;Full-Stack+Developer;👉+4th+Semester+Computer+Engineering+Student;Turning+Ideas+Into+Real+Projects+💡;Always+Learning+New+Tech+🚀" 
+  />
 </p>
 
-<p align="center">
-  💡 Always learning • 🧠 Always building • ⚡ Always shipping
-</p>
+## 👋 Introduction
+
+I'm **Jeel Dobariya**, a dedicated **Full-Stack Developer** and a **Computer Engineering Student (4th Semester)** at Darshan University.
+
+I specialize in building **end-to-end web applications**, combining modern frontend design with powerful backend logic.  
+My development journey includes:
+
+- 🎨 Crafting clean, responsive UIs with **React & Bootstrap**  
+- ⚙️ Developing robust backend APIs using **Node.js & Express.js**  
+- 🛢 Designing efficient data models using **MongoDB & MSSQL**  
+- 🧠 Strengthening problem-solving through **DSA & Algorithms**  
+- 🤖 Exploring the foundations of **AI/ML** to create smarter systems  
+
+I believe in continuous learning, writing clean code, and building things that make a difference.
+
+✨ Passionate about tech  
+⚡ Driven to improve  
+🚀 Ready to build the future  
 
 ---
 
@@ -30,7 +41,6 @@
 - 🛢 Love working with <b>Databases:</b>  
   - 🧩 <b>MS SQL Server (MSSQL)</b> – procedures, joins, views, triggers  
   - 🍃 <b>MongoDB</b> – documents, collections, aggregation  
-  - 🐬 <b>MySQL</b> basics  
 - 🧮 Strong in <b>Data Structures & Algorithms</b> (arrays, linked lists, stacks, queues, trees, graphs)  
 - 📊 Passionate about <b>Data Analysis & Visualization</b> (NumPy, Pandas, Matplotlib)  
 - 📱 Focused on <b>responsive, mobile-first web design</b>  
@@ -62,7 +72,7 @@
 </p>
 
 <p align="center">
-  Relational 👉 <b>MSSQL </b> • NoSQL 👉 <b>MongoDB</b>
+  Relational 👉 <b>MSSQL</b> • NoSQL 👉 <b>MongoDB</b>
 </p>
 
 ### 📚 CS Core
@@ -71,12 +81,16 @@
 - 🧠 <b>Algorithms:</b> searching, sorting, recursion basics  
 - ⚙️ <b>OOP:</b> classes, objects, inheritance, polymorphism, interfaces  
 
+
 ---
 
-## ⚡ Dev Vibes 
+## ⚡ Dev Vibes  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=💡+Debugging+ideas...;🧠+Training+ML+models...;🛠+Building+full-stack+apps...;🗄️+Designing+MSSQL+%26+MongoDB+schemas...;🚀+Pushing+projects+to+GitHub..." alt="Dev Vibes" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=800&color=22C55E&center=true&vCenter=true&width=750&lines=Debugging+ideas...;Refactoring+old+code...;Designing+responsive+UIs...;Building+RESTful+APIs+with+Node+%26+Express...;Writing+SQL+queries+in+MSSQL...;Modeling+documents+in+MongoDB...;Practicing+DSA+questions+daily...;Exploring+AI%2FML+models+in+Python...;Pushing+new+commits+to+GitHub...;Reading+docs+and+learning+new+tools...;Breaking+things+and+fixing+them+again+😅" 
+    alt="Dev Vibes" 
+  />
 </p>
 
 ---
@@ -119,5 +133,5 @@
 ---
 
 <p align="center">
-  ##💡 <i>Always growing, always learning — one commit at a time.</i> ⚡
+  💡 <i>Always growing, always learning — one commit at a time.</i> ⚡
 </p>
