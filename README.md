@@ -1,31 +1,32 @@
+<!-- 🌟 Perfect Animated Header -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2200&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=true&width=1100&height=110&lines=Hi!+I'm+Jeel+Dobariya+👋;Full-Stack+Developer+💻;4th+Semester+Computer+Engineering+Student+🎓;AI+%26+ML+Enthusiast+🤖;Turning+Ideas+Into+Real+Projects+💡;Always+Learning+New+Tech+🚀"
+  />
+</p>
 
-
-<!-- 💻 Laptop / Coding GIF -->
+<!-- 💻 Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Laptop" />
 </p>
 
-<!-- ✨ Animated Intro -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=Hi!+I'm+Jeel+Dobariya+👋;Full-Stack+Developer;👉+4th+Semester+Computer+Engineering+Student;Turning+Ideas+Into+Real+Projects+💡;Always+Learning+New+Tech+🚀" 
-  />
-</p>
+---
 
 ## 👋 Introduction
 
-I'm **Jeel Dobariya**, a dedicated **Full-Stack Developer** and a **Computer Engineering Student (4th Semester)** at Darshan University.
+Hi! I'm **Jeel Dobariya**, a passionate **Full-Stack Developer** and **Computer Engineering Student (4th Semester)** at Darshan University.
 
-I specialize in building **end-to-end web applications**, combining modern frontend design with powerful backend logic.  
-My development journey includes:
+I build **end-to-end web applications** using modern technologies by combining clean UI, powerful backend architecture, and efficient database design.
 
-- 🎨 Crafting clean, responsive UIs with **React & Bootstrap**  
-- ⚙️ Developing robust backend APIs using **Node.js & Express.js**  
-- 🛢 Designing efficient data models using **MongoDB & MSSQL**  
-- 🧠 Strengthening problem-solving through **DSA & Algorithms**  
-- 🤖 Exploring the foundations of **AI/ML** to create smarter systems  
+I enjoy exploring new technologies, improving system performance, and creating elegant digital solutions.  
+Here’s what defines my journey so far:
 
-I believe in continuous learning, writing clean code, and building things that make a difference.
+- 🎨 Clean, responsive UI development with **React & Bootstrap**  
+- ⚙️ Building efficient backend systems using **Node.js & Express**  
+- 🛢 Designing robust databases in **MongoDB & MSSQL**  
+- 🧠 Improving logic by practicing **Data Structures & Algorithms**  
+- 🤖 Growing interest in **Artificial Intelligence & Machine Learning**  
+- 🚀 Turning creative ideas into real, functional products  
 
 ✨ Passionate about tech  
 ⚡ Driven to improve  
@@ -38,37 +39,30 @@ I believe in continuous learning, writing clean code, and building things that m
 - 🎓 <b>4th Semester B.Tech – Computer Engineering (Darshan University)</b>  
 - 🤖 Exploring <b>Artificial Intelligence & Machine Learning</b>  
 - 💻 <b>Full-Stack Developer:</b> React, Node.js, Express, REST APIs  
-- 🛢 Love working with <b>Databases:</b>  
-  - 🧩 <b>MS SQL Server (MSSQL)</b> – procedures, joins, views, triggers  
-  - 🍃 <b>MongoDB</b> – documents, collections, aggregation  
-- 🧮 Strong in <b>Data Structures & Algorithms</b> (arrays, linked lists, stacks, queues, trees, graphs)  
-- 📊 Passionate about <b>Data Analysis & Visualization</b> (NumPy, Pandas, Matplotlib)  
-- 📱 Focused on <b>responsive, mobile-first web design</b>  
-- 🎯 Dream: Become a <b>top-tier AI Engineer</b> and build impactful products  
+- 🛢 Highly comfortable with <b>MongoDB & MSSQL</b>  
+- 🧩 Strong command in <b>Data Structures & Algorithms</b>  
+- 📊 Love working with <b>NumPy, Pandas, Matplotlib</b>  
+- 📱 Focused on <b>responsive, mobile-first design</b>  
+- 🎯 Aim: Become a <b>Top-Tier AI Engineer</b>  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages & Web
-
+### 💻 Languages & Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,bootstrap" />
 </p>
 
 ### ⚙️ Backend & APIs
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🛢 Databases
-
 <p align="center">
-  <!-- MSSQL -->
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" title="MS SQL Server" />
-  <!-- MongoDB -->
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 <p align="center">
@@ -76,43 +70,37 @@ I believe in continuous learning, writing clean code, and building things that m
 </p>
 
 ### 📚 CS Core
-
 - 🧱 <b>Data Structures:</b> arrays, stacks, queues, linked lists, trees, graphs  
-- 🧠 <b>Algorithms:</b> searching, sorting, recursion basics  
-- ⚙️ <b>OOP:</b> classes, objects, inheritance, polymorphism, interfaces  
-
+- 🧠 <b>Algorithms:</b> searching, sorting, recursion  
+- ⚙️ <b>OOP Concepts:</b> inheritance, polymorphism, abstraction  
 
 ---
 
 ## ⚡ Dev Vibes  
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=800&color=22C55E&center=true&vCenter=true&width=750&lines=Debugging+ideas...;Refactoring+old+code...;Designing+responsive+UIs...;Building+RESTful+APIs+with+Node+%26+Express...;Writing+SQL+queries+in+MSSQL...;Modeling+documents+in+MongoDB...;Practicing+DSA+questions+daily...;Exploring+AI%2FML+models+in+Python...;Pushing+new+commits+to+GitHub...;Reading+docs+and+learning+new+tools...;Breaking+things+and+fixing+them+again+😅" 
-    alt="Dev Vibes" 
   />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeldobariya31&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeldobariya31&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeldobariya31&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeldobariya31&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
+## 🌐 Connect with Me  
 <p align="center">
   <a href="mailto:jeeldobariya33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -124,8 +112,7 @@ I believe in continuous learning, writing clean code, and building things that m
 
 ---
 
-## 👁️ Profile Views
-
+## 👁️ Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeeldobariya31&label=Profile%20Views&color=00F7FF&style=for-the-badge&labelColor=000000" />
 </p>
