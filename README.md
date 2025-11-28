@@ -26,7 +26,7 @@
       "
     ></div>
 
-    <!-- 💻 Scrollable "Screen" -->
+    <!-- 🖥️ Scrollable "Screen" -->
     <div
       style="
         background: linear-gradient(135deg, rgba(15,23,42,0.95), rgba(15,23,42,0.9));
@@ -94,18 +94,19 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" title="MS SQL Server" />
         <!-- MongoDB -->
         <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-       
+        <!-- MySQL -->
+        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
       </p>
 
       <p align="center" style="font-size: 12px; color:#9ca3af;">
-        Relational 👉 <b>MSSQL </b> • NoSQL 👉 <b>MongoDB</b>
+        Relational 👉 <b>MSSQL, MySQL</b> • NoSQL 👉 <b>MongoDB</b>
       </p>
 
       <b>📚 CS Core:</b><br/>
       <ul>
         <li>🧱 <b>Data Structures:</b> arrays, stacks, queues, linked lists, trees, graphs</li>
         <li>⚙️ <b>OOP Concepts:</b> classes, inheritance, polymorphism, interfaces</li>
-        <li>🧠 <b>Problem Solving:</b> pattern problems, recursion, complexity basics</li>
+        <li>🧠 <b>Problem Solving:</b> recursion, pattern problems, basic complexity</li>
       </ul>
 
       ---
