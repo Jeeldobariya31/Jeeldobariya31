@@ -1,7 +1,11 @@
 <!-- 🌟 Neon Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hey!+I'm+Jeel+Dobariya;🚀+Full+Stack+%2B+AI%2FML+Enthusiast;💻+4th+Semester+Computer+Engineering+Student" alt="Typing Header" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=1100&height=90&lines=👋+Hey!+I'm+Jeel+Dobariya;🚀+Full+Stack+%2B+AI%2FML+Enthusiast;💻+4th+Semester+Computer+Engineering+Student" 
+    alt="Typing Header" 
+  />
 </p>
+
 
 <!-- 💻 Laptop / Coding GIF -->
 <p align="center">
@@ -55,12 +59,10 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" title="MS SQL Server" />
   <!-- MongoDB -->
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <!-- MySQL -->
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
 <p align="center">
-  Relational 👉 <b>MSSQL, MySQL</b> • NoSQL 👉 <b>MongoDB</b>
+  Relational 👉 <b>MSSQL </b> • NoSQL 👉 <b>MongoDB</b>
 </p>
 
 ### 📚 CS Core
@@ -71,7 +73,7 @@
 
 ---
 
-## ⚡ Dev Vibes (Animated)
+## ⚡ Dev Vibes 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=💡+Debugging+ideas...;🧠+Training+ML+models...;🛠+Building+full-stack+apps...;🗄️+Designing+MSSQL+%26+MongoDB+schemas...;🚀+Pushing+projects+to+GitHub..." alt="Dev Vibes" />
@@ -117,5 +119,5 @@
 ---
 
 <p align="center">
-  💡 <i>Always growing, always learning — one commit at a time.</i> ⚡
+  ##💡 <i>Always growing, always learning — one commit at a time.</i> ⚡
 </p>
