@@ -61,7 +61,7 @@ I enjoy exploring new technologies, solving challenging problems, and designing 
 
 ---
 
-## ⚡ Dev Vibes Animation  
+## ⚡ Dev Vibes 
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=800&color=22C55E&center=true&vCenter=true&width=780&lines=Debugging+ideas...;Refactoring+old+code...;Designing+responsive+UIs...;Building+REST+APIs+with+Node+%26+Express...;Writing+SQL+queries+in+MSSQL...;Modeling+documents+in+MongoDB...;Practicing+DSA+daily...;Exploring+AI%2FML+models+in+Python...;Deploying+projects+to+GitHub...;Breaking+things+and+fixing+them+again+😅;Building+smarter+solutions+every+day+🚀" 
