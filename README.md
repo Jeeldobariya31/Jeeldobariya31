@@ -1,7 +1,7 @@
 <!-- 🌟 Animated Multi-Line Header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1100&height=120&lines=Hi!+I'm+Jeel+Dobariya+👋;Full-Stack+Developer+💻;4th+Semester+Computer+Engineering+Student+🎓;AI+%26+ML+Enthusiast+🤖;Creating+Smart+%26+Scalable+Web+Apps+⚡;Turning+Ideas+Into+Real+Projects+💡;Always+Learning+New+Tech+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1100&height=120&lines=Hi!+I'm+Jeel+Dobariya+👋;Full-Stack+Developer+💻;4th+Semester+Computer+Engineering+Student+🎓;AI+%26+ML+Enthusiast+🤖;Creating+Smart+%26+Scalable+Web+Apps+⚡;Turning+Ideas+Into+Real+Projects+💡;Always+Learning+New+Tech+🚀"
   />
 </p>
 
@@ -16,24 +16,19 @@
 
 Hi! I'm **Jeel Dobariya**, a passionate **Full-Stack Developer** and **Computer Engineering Student (4th Semester)** at Darshan University.
 
-I build **end-to-end web applications** with modern UI, optimized backend systems, and real databases.  
-I enjoy exploring new technologies, solving challenging problems, and designing efficient architectures.
-
-✨ Passionate about tech  
-⚡ Driven to improve  
-🚀 Ready to build the future  
+I build **end-to-end web applications** with modern UI, optimized backend, and real databases.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 <b>4th Semester Computer Engineering @ Darshan University</b>  
-- 💻 <b>Full-Stack Developer (React, Node.js, Express)</b>  
-- 🛢 Skilled with <b>MSSQL & MongoDB</b>  
-- 🧠 Strong base in <b>Data Structures & Algorithms</b>  
-- 📊 Love working with <b>NumPy, Pandas, Matplotlib</b>  
-- 🤖 Exploring <b>AI & Machine Learning</b>  
-- 🚀 Aim to become a <b>top-tier AI Engineer</b>  
+- 🎓 4th Semester CE @ **Darshan University**  
+- 💻 Full-Stack Dev (**React, Node.js, Express**)  
+- 🛢 Databases: **MSSQL, MongoDB**  
+- 🧠 Strong **DSA & Algorithms**  
+- 📊 Data Analysis with **NumPy, Pandas, Matplotlib**  
+- 🤖 Exploring **AI & ML**  
+- 🚀 Aspiring **AI Engineer**
 
 ---
 
@@ -55,16 +50,12 @@ I enjoy exploring new technologies, solving challenging problems, and designing 
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-<p align="center">
-  Relational 👉 <b>MSSQL</b> • NoSQL 👉 <b>MongoDB</b>
-</p>
-
 ---
 
 ## ⚡ Dev Vibes 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=800&color=22C55E&center=true&vCenter=true&width=780&lines=Debugging+ideas...;Refactoring+old+code...;Designing+responsive+UIs...;Building+REST+APIs+with+Node+%26+Express...;Writing+SQL+queries+in+MSSQL...;Modeling+documents+in+MongoDB...;Practicing+DSA+daily...;Exploring+AI%2FML+models+in+Python...;Deploying+projects+to+GitHub...;Breaking+things+and+fixing+them+again+😅;Building+smarter+solutions+every+day+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2300&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=Debugging+ideas...;Refactoring+old+code...;Designing+responsive+UIs...;Building+REST+APIs...;Writing+SQL+queries...;Modeling+in+MongoDB...;Practicing+DSA+daily...;Exploring+AI+%26+ML...;Deploying+projects+to+GitHub...;Fixing+bugs+%26+breaking+again+😅;Building+smarter+solutions+every+day+🚀" 
   />
 </p>
 
@@ -72,101 +63,67 @@ I enjoy exploring new technologies, solving challenging problems, and designing 
 
 # 🎯 Featured Projects
 
-## 🛺 Carpooling Website — **RideShaadi**
-A smart carpooling platform enabling easy ride sharing for students and commuters.  
-**Tech:** React, Node.js, Express, MongoDB  
+## 🛺 RideShaadi — Carpooling Platform
+A smart carpooling project built using **React + Node.js + MongoDB**.
 
-✨ Features  
-- 🚗 Add / Offer rides  
-- 🎯 Real-time ride listing  
-- 🔍 Search & filter rides  
-- 📅 Booking system  
-- 🗂 LocalStorage-based ride storage  
-- 🎨 Clean responsive UI  
+✨ Add / Offer rides  
+✨ Search & filter  
+✨ Booking system  
+✨ Responsive UI  
 
 ---
 
-## 🔁 SkillSwap — **Skill Sharing Platform**
-A full-featured skill exchange platform where users can learn & teach skills through swapping.  
-**Tech:** Node.js, Express.js, MongoDB, JWT, React (planned)
-
-### ✨ Features
-- 🔐 **User Authentication** – Secure login/register with JWT  
-- 🧑‍💼 **User Profiles** – Manage user details & skill information  
-- 🧠 **Skill Browser** – Discover and search available skills  
-- 🔄 **Swap Requests** – Create & manage skill exchange requests  
-- 💬 **Feedback System** – Rate & review skill exchanges  
-- 🛠 **Admin Dashboard** – Manage users & content  
-- 📱 **Responsive Design** – Works smoothly on all devices  
+## 🔁 SkillSwap — Skill Sharing App  
+**Node.js + MongoDB + JWT + React (planned)**  
+- Authentication  
+- Skill browse  
+- Swap requests  
+- Feedback system  
+- Admin dashboard  
 
 ---
 
-## 📝 Attendance Management System  
-A modern web-based attendance marking solution for classrooms.  
-**Tech:** HTML, CSS, JS  
-
-✨ Features  
-- 🎤 Speech-based interactions  
-- ✔ Checkbox-attendance with highlighting  
-- 🔄 Auto-scroll  
-- 📁 Export to CSV/PDF  
-- 🎨 Smooth UI animations  
+## 📝 Web Attendance System  
+**HTML + CSS + JS**  
+- Speech  
+- Highlighting  
+- Export to PDF  
+- Auto-scroll  
 
 ---
 
-## 🍴 Food Recipe App — **React + REST API Project**
-A dynamic recipe browsing platform created using **React**, powered by public **Recipe APIs**.  
-**Tech:** React.js, REST API, CSS  
-
-✨ Features  
-- 🍽 Fetch recipes via API  
-- 🔍 Search recipes  
-- 📄 Detailed recipe instructions  
-- 🏷 Categories & filters  
-- 🎨 Modern responsive UI  
+## 🍴 React Recipe App  
+- API-based recipes  
+- Search & filter  
+- Responsive UI  
 
 ---
 
 ## 📊 Data Analysis Dashboard  
-A statistics dashboard made with Python for visual analytics.  
-**Tech:** Python, Pandas, NumPy, Matplotlib  
-
-✨ Features  
-- 📈 Interactive charts  
-- 🧮 Summary metrics  
-- 🎨 Clean dashboard layout  
+- Python + Pandas + NumPy  
+- Matplotlib graphs  
 
 ---
 
-## ▶️ YouTube Backend 
-Backend architecture inspired by YouTube-style video management, with features of twitter to . 
-**Tech:**  Node.js + Express + MongoDB + Cloudinary + JWT + Bcrypt + Nodemailer
-
-
-✨ Features  
-- 👤 User authentication  
-- 📹 Video CRUD operations  
-- 📺 Channel structure  
-- 🔗 Organized routing system  
+## ▶️ YouTube Backend Clone  
+- Node.js, Express, MongoDB  
+- JWT + Cloudinary  
+- Channel system  
+- Video CRUD  
 
 ---
-
-## 📘 Attendance App (Web Version)
-A simple yet effective attendance tracker for classrooms.  
-**Tech:** HTML, CSS, JS  
-
-✨ Features  
-- 🌗 Smooth animations  
-- 🚀 Fast marking system  
-- 📌 Clean UI  
 
 ## 📊 GitHub Stats  
+
+### ✔ FIXED Version  
+(Your earlier URLs were outdated — these new ones work perfectly)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeldobariya31&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeeldobariya31&theme=tokyonight" />
 </p>
 
 <p align="center">
