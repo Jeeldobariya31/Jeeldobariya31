@@ -118,12 +118,14 @@ A smart carpooling project built using **React + Node.js + MongoDB**.
 
 
 <p align="center">
-  <img src="https://github-readme-stats-jeel.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=tokyonight" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jeeldobariya31&theme=tokyonight" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeldobariya31&layout=compact&theme=tokyonight" />
