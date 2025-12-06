@@ -22,8 +22,9 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
 
 ## 🚀 About Me
 
-- 🎓 4th Semester CE @ **Darshan University**  
-- 💻 Full-Stack Dev (**React, Node.js, Express**)  
+- 🎓 4th Semester CE @ **Darshan University**
+<!-- 💻 Full-Stack Dev (**React, Node.js, Express**) -->
+
 - 🛢 Databases: **MSSQL, MongoDB**  
 - 🧠 Strong **DSA & Algorithms**  
 - 📊 Data Analysis with **NumPy, Pandas, Matplotlib**  
@@ -105,11 +106,14 @@ A smart carpooling project built using **React + Node.js + MongoDB**.
 
 ---
 
+<!-- 
 ## ▶️ YouTube Backend Clone  
 - Node.js, Express, MongoDB  
 - JWT + Cloudinary  
 - Channel system  
 - Video CRUD  
+-->
+
 
 ---
 
