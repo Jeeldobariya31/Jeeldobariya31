@@ -40,10 +40,13 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,bootstrap" />
 </p>
 
+<!--
 ### ⚙️ Backend & APIs  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+-->
+
 
 ### 🛢 Databases  
 <p align="center">
@@ -65,7 +68,7 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
 # 🎯 Featured Projects
 
 ## 🛺 RideShaadi — Carpooling Platform
-A smart carpooling project built using **React + Node.js + MongoDB**.
+A smart carpooling project built using ** JS **.
 
 ✨ Add / Offer rides  
 ✨ Search & filter  
