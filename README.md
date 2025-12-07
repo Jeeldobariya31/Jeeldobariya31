@@ -23,7 +23,7 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
 ## 🚀 About Me
 
 - 🎓 4th Semester CE @ **Darshan University**
-<!-- 💻 Full-Stack Dev (**React, Node.js, Express**) -->
+- 💻 Full-Stack Dev (**React, Node.js, Express**) 
 
 - 🛢 Databases: **MSSQL, MongoDB**  
 - 🧠 Strong **DSA & Algorithms**  
@@ -40,12 +40,12 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,bootstrap" />
 </p>
 
-<!--
+
 ### ⚙️ Backend & APIs  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
--->
+
 
 
 ### 🛢 Databases  
@@ -109,13 +109,13 @@ A smart carpooling project built using ** JS **.
 
 ---
 
-<!-- 
+<
 ## ▶️ YouTube Backend Clone  
 - Node.js, Express, MongoDB  
 - JWT + Cloudinary  
 - Channel system  
 - Video CRUD  
--->
+
 
 
 ---
