@@ -14,17 +14,19 @@
 
 ## 👋 Introduction
 
-Hi! I'm **Jeel Dobariya**, a passionate **Full-Stack Developer** and **Computer Engineering Student (4th Semester)** at Darshan University.
+Hi! I'm **Jeel Dobariya**, a passionate **Full-Stack Developer** and **Computer Engineering Student (4th Semester)** at **Darshan University**.
 
-I build **end-to-end web applications** with modern UI, optimized backend, and real databases.
+I build **end-to-end web applications** with modern UI, optimized backend, and real-world databases.
+
+🌐 **Portfolio:**  
+👉 https://jeeldobariya.vercel.app
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 4th Semester CE @ **Darshan University**
-- 💻 Full-Stack Dev (**React, Node.js, Express**) 
-
+- 💻 Full-Stack Developer (**React, Tailwind, Node.js, Express, .NET**)  
 - 🛢 Databases: **MSSQL, MongoDB**  
 - 🧠 Strong **DSA & Algorithms**  
 - 📊 Data Analysis with **NumPy, Pandas, Matplotlib**  
@@ -37,16 +39,13 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
 
 ### 💻 Languages & Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,bootstrap,tailwind" />
 </p>
-
 
 ### ⚙️ Backend & APIs  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
 </p>
-
-
 
 ### 🛢 Databases  
 <p align="center">
@@ -68,7 +67,7 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
 # 🎯 Featured Projects
 
 ## 🛺 RideShaadi — Carpooling Platform
-A smart carpooling project built using ** JS **.
+A smart carpooling project built using **JavaScript**.
 
 ✨ Add / Offer rides  
 ✨ Search & filter  
@@ -80,7 +79,7 @@ A smart carpooling project built using ** JS **.
 ## 🔁 SkillSwap — Skill Sharing App  
 **Node.js + MongoDB + JWT + React (planned)**  
 - Authentication  
-- Skill browse  
+- Skill browsing  
 - Swap requests  
 - Feedback system  
 - Admin dashboard  
@@ -88,8 +87,8 @@ A smart carpooling project built using ** JS **.
 ---
 
 ## 📝 Web Attendance System  
-**HTML + CSS + JS**  
-- Speech  
+**HTML + CSS + JavaScript**  
+- Speech recognition  
 - Highlighting  
 - Export to PDF  
 - Auto-scroll  
@@ -105,41 +104,30 @@ A smart carpooling project built using ** JS **.
 
 ## 📊 Data Analysis Dashboard  
 - Python + Pandas + NumPy  
-- Matplotlib graphs  
+- Matplotlib visualizations  
 
 ---
 
-<
 ## ▶️ YouTube Backend Clone  
 - Node.js, Express, MongoDB  
 - JWT + Cloudinary  
 - Channel system  
 - Video CRUD  
 
-
-
 ---
 
 ## 📊 GitHub Stats  
 
-
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=tokyonight" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeldobariya31&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jeeldobariya31&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-
- 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jeeldobariya31&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -151,6 +139,9 @@ A smart carpooling project built using ** JS **.
   </a>
   <a href="https://www.linkedin.com/in/jeel-dobariya-067041322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jeeldobariya.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
