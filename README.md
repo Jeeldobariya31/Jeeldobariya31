@@ -19,7 +19,7 @@ Hi! I'm **Jeel Dobariya**, a passionate **Full-Stack Developer** and **Computer 
 I build **end-to-end web applications** with modern UI, optimized backend, and real-world databases.
 
 🌐 **Portfolio:**  
-👉 https://jeeldobariyaportfolio.vercel.app
+👉 https://jeel-dobariya.vercel.app
 
 ---
 
