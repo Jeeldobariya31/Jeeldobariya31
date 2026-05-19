@@ -1,53 +1,73 @@
 <!-- 🌟 Animated Multi-Line Header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1100&height=120&lines=Hi!+I'm+Jeel+Dobariya+👋;Full-Stack+Developer+💻;4th+Semester+Computer+Engineering+Student+🎓;AI+%26+ML+Enthusiast+🤖;Creating+Smart+%26+Scalable+Web+Apps+⚡;Turning+Ideas+Into+Real+Projects+💡;Always+Learning+New+Tech+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1200&height=120&lines=Hi!+I'm+Jeel+Dobariya+👋;Full-Stack+Developer+💻;5th+Semester+Computer+Engineering+Student+🎓;Teaching+Assistant+at+Darshan+University+👨‍🏫;AI+%26+ML+Enthusiast+🤖;Building+Realtime+%26+Scalable+Apps+⚡;Turning+Ideas+Into+Real+Projects+💡;Always+Learning+New+Tech+🚀"
   />
 </p>
 
-<!-- 💻 GIF -->
+<!-- 💻 Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Laptop" />
 </p>
 
 ---
 
-## 👋 Introduction
+# 👋 Introduction
 
-Hi! I'm **Jeel Dobariya**, a passionate **Full-Stack Developer** and **Computer Engineering Student (4th Semester)** at **Darshan University**.
+Hi! I'm **Jeel Dobariya**, a passionate **Full-Stack Developer**, **Teaching Assistant**, and **Computer Engineering Student (5th Semester)** at **Darshan University**.
 
-I build **end-to-end web applications** with modern UI, optimized backend, and real-world databases.
+I love building **modern, scalable, realtime, and AI-powered applications** using the latest web technologies, databases, machine learning tools, and cloud platforms.
 
 🌐 **Portfolio:**  
 👉 https://jeel-dobariya.vercel.app
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 4th Semester CE @ **Darshan University**
-- 💻 Full-Stack Developer (**React, Tailwind, Node.js, Express, .NET**)  
-- 🛢 Databases: **MSSQL, MongoDB**  
-- 🧠 Strong **DSA & Algorithms**  
-- 📊 Data Analysis with **NumPy, Pandas, Matplotlib**  
-- 🤖 Exploring **AI & ML**  
+- 🎓 5th Semester CE @ **Darshan University**
+- 👨‍🏫 Teaching Assistant at **Darshan University**
+- 📘 Assisting students in **Web Technology**
+- 💻 Full-Stack Developer (**C, C++, C#, JavaScript, React, Node.js, .NET**)  
+- 🎨 UI Development using **Bootstrap & Tailwind CSS**
+- ⚡ Backend Development with **Node.js, Express & ASP.NET**
+- 🌐 Building **Realtime Applications**
+- 🔄 Working with **WebSockets & Pub/Sub Systems**
+- ☁️ Backend Platforms: **Supabase & Appwrite**
+- 🛢 Databases: **MongoDB & MSSQL**
+- 🔐 Authentication using **JWT & Secure APIs**
+- 🧠 Strong in **DSA & Algorithms**
+- 📊 Data Analysis using **NumPy, Pandas, Matplotlib & Seaborn**
+- 🤖 Exploring **Machine Learning & AI**
+- 📈 ML Libraries: **Scikit-Learn**
 - 🚀 Aspiring **AI Engineer**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Languages & Frontend  
+## 💻 Languages & Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend & APIs  
+---
+
+## ⚙️ Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
 </p>
 
-### 🛢 Databases  
+---
+
+## ☁️ Cloud, Backend & Realtime
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,appwrite" />
+</p>
+
+---
+
+## 🛢 Databases
 <p align="center">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -55,10 +75,26 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
 
 ---
 
-## ⚡ Dev Vibes 
+## 🤖 AI / ML & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+---
+
+# ⚡ Dev Vibes
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2300&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=Debugging+ideas...;Refactoring+old+code...;Designing+responsive+UIs...;Building+REST+APIs...;Writing+SQL+queries...;Modeling+in+MongoDB...;Practicing+DSA+daily...;Exploring+AI+%26+ML...;Deploying+projects+to+GitHub...;Fixing+bugs+%26+breaking+again+😅;Building+smarter+solutions+every+day+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2300&pause=800&color=22C55E&center=true&vCenter=true&width=1200&lines=Teaching+Web+Technology+👨‍🏫;Building+REST+APIs...;Creating+Realtime+Apps+⚡;Working+with+WebSockets...;Using+PubSub+Architecture...;Developing+with+ASP.NET+🚀;Managing+MongoDB+%26+MSSQL...;Building+with+Supabase+%26+Appwrite...;Practicing+DSA+daily...;Analyzing+Data+with+Pandas+📊;Visualizing+Data+with+Matplotlib...;Exploring+Machine+Learning+🤖;Training+ML+Models...;Deploying+projects+to+GitHub...;Fixing+bugs+%26+breaking+again+😅;Building+smarter+solutions+every+day+🚀" 
   />
 </p>
 
@@ -70,15 +106,17 @@ I build **end-to-end web applications** with modern UI, optimized backend, and r
 A smart carpooling project built using **JavaScript**.
 
 ✨ Add / Offer rides  
-✨ Search & filter  
+✨ Search & filter rides  
 ✨ Booking system  
 ✨ Responsive UI  
+✨ Local storage integration  
 
 ---
 
-## 🔁 SkillSwap — Skill Sharing App  
-**Node.js + MongoDB + JWT + React (planned)**  
-- Authentication  
+## 🔁 SkillSwap — Skill Sharing App
+**Node.js + MongoDB + JWT + React**
+
+- Authentication system  
 - Skill browsing  
 - Swap requests  
 - Feedback system  
@@ -86,37 +124,56 @@ A smart carpooling project built using **JavaScript**.
 
 ---
 
-## 📝 Web Attendance System  
-**HTML + CSS + JavaScript**  
+## 📝 Smart Attendance System
+**HTML + CSS + JavaScript**
+
 - Speech recognition  
-- Highlighting  
-- Export to PDF  
-- Auto-scroll  
+- Keyboard navigation  
+- Highlighting system  
+- Export to PDF & Excel  
+- Dynamic attendance management  
 
 ---
 
-## 🍴 React Recipe App  
+## 🍴 React Recipe App
+
 - API-based recipes  
 - Search & filter  
 - Responsive UI  
+- Dynamic cards  
 
 ---
 
-## 📊 Data Analysis Dashboard  
+## 📊 Data Analysis Dashboard
+
 - Python + Pandas + NumPy  
-- Matplotlib visualizations  
+- Matplotlib & Seaborn charts  
+- Data preprocessing  
+- Data cleaning & visualization  
 
 ---
 
-## ▶️ YouTube Backend Clone  
-- Node.js, Express, MongoDB  
-- JWT + Cloudinary  
-- Channel system  
-- Video CRUD  
+## 🤖 ML Prediction System
+
+- Machine Learning models  
+- Data preprocessing  
+- Model training & testing  
+- Accuracy evaluation  
+- Scikit-Learn integration  
 
 ---
 
-## 📊 GitHub Stats  
+## ▶️ YouTube Backend Clone
+
+- Node.js + Express + MongoDB  
+- JWT Authentication  
+- Cloudinary integration  
+- Video CRUD operations  
+- Channel & subscription system  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeeldobariya31&show_icons=true&theme=tokyonight" />
@@ -132,22 +189,26 @@ A smart carpooling project built using **JavaScript**.
 
 ---
 
-## 🌐 Connect with Me  
+# 🌐 Connect with Me
+
 <p align="center">
   <a href="mailto:jeeldobariya33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/jeel-dobariya-067041322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jeeldobariya.vercel.app" target="_blank">
+
+  <a href="https://jeel-dobariya.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👁️ Profile Views  
+# 👁️ Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeeldobariya31&label=Profile%20Views&color=00F7FF&style=for-the-badge&labelColor=000000" />
 </p>
